@@ -1,6 +1,6 @@
 # awscli-docker
 
-Docker image with awscliv2
+Docker image with awscliv2 based on debian:10-slim.
 
 # Usage
 
